@@ -1,2 +1,2 @@
-# Get-Good
-Practical advice for autodidacts, skill junkies, and polymaths
+# Get-Good: Practical Advice for Autodidacts, Skill Junkies, and Polymaths
+This is a book. Incredible.
