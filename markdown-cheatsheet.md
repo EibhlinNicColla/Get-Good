@@ -1,8 +1,8 @@
 # Markdown Cheat Sheet
 
-[Headers](#headers)
-[Emphasis](#emphasis)
-[Lists](#lists)
+[Headers](#headers)\
+[Emphasis](#emphasis)\
+[Lists](#lists)\
 
 ## Headers<a name="headers"></a>
 
