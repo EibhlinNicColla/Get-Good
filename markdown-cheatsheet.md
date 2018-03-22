@@ -1,5 +1,7 @@
 # Markdown Cheat Sheet
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+
 [Headers](#headers)\
 [Emphasis](#emphasis)\
 [Lists](#lists)\
@@ -62,3 +64,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 + Or pluses
 ```
 
+> This is a blockquote.
+> -- <cite>[This is an attribution.][1]</cite>
+
+[1]:http://www.facebook.com
